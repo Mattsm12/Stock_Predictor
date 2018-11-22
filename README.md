@@ -1,4 +1,4 @@
-# silver-happiness
+# Stock_Predictor
 This project is used to predict the next 30 days of stock and whether the overall
 change of the price in stock increases, decreases or stays stagnant. It graphs the predicted adjusted closing prices of the 
 stock at the end of each predicted day and as well as a graph of the overall change from day 1 to day 30 in stock price. It
